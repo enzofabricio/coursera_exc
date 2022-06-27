@@ -1,2 +1,5 @@
 # coursera_exc
-repository for week tree qwikilabs of the coursera git course
+repository for week three qwikilabs of the coursera git course
+
+I am editing the README file,. Adding some more details about
+the project description
